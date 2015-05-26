@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color Palette -->
+    <!-- Primary Colors -->
+    <color name="gilt_black">#000000</color>
+    <color name="gilt_white">#FFFFFF</color>
+    <color name="gilt_gold">#E09D00</color>
+    <color name="gilt_primary_gray">#383838</color>
+    <color name="gilt_secondary_gray">#737373</color>
+    <color name="gilt_tertiary_gray">#9E9E9E</color>
+    <!-- Secondary Colors - backgrounds -->
+    <color name="gilt_bg_first_tier">#FAF9F7</color>
+    <color name="gilt_bg_fourth_tier">#E0E0DE</color>
+
+    <!-- Debug Colors -->
+    <color name="debug_green">#00FF00</color>
+    <color name="debug_cyan">#00FFFF</color>
+    <color name="debug_red">#FF0000</color>
+</resources>

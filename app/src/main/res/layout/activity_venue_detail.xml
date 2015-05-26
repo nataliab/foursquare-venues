@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.nbartol.foursquarevenues.VenueDetailActivity">
+
+    <ImageView
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:id="@+id/details_image"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/gilt_tertiary_gray"/>
+
+    <TextView android:text="@string/details_venue_name"
+        android:id="@+id/details_venue_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/gilt_gold" />
+
+    <Button android:text="@string/details_open_in_browser_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textColor="@color/gilt_gold"
+        android:id="@+id/details_open_in_browser_button"/>
+
+
+</LinearLayout>

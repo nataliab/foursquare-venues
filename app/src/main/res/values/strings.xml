@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_venue_detail">VenueDetailActivity</string>
+    <string name="details_open_in_browser_button">Open in browser</string>
+    <string name="details_venue_name">Venue name</string>
+</resources>
